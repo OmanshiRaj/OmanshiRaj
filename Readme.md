@@ -7,7 +7,7 @@ Pre-Final Year Student @ NIT Hamirpur
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1A95F7&width=435&lines=FULL+STACK+DEVELOPER++%F0%9F%8F%AB;OPEN+SOURCE+CONTRIBUTOR++%F0%9F%96%A5%EF%B8%8F;PROBLEM+SOLVING+%F0%9F%90%B3" alt="Typing SVG" />
 
-Full-stack developer working across the MERN stack, currently branching into Web3, Solidity, and GraphQL. I contribute to open source through GSSoC and SSoC, where I've picked up as much from debugging and merge conflicts as from writing features. Still learning, still curious, always building.
+Full-stack developer working across the MERN stack, currently branching into Web3, Solidity, and GraphQL. I contribute to open source through GSSoC and SSoC, where . Still learning, still curious, always building.
 
 <img src="https://komarev.com/ghpvc/?username=OmanshiRaj&color=yellow&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile Views" />
 
